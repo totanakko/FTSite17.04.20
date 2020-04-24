@@ -1,3 +1,33 @@
 body {
     background-image: url("media/photo/background.jpg");
 }
+
+.layout {
+
+    width: 100px; margin: auto;
+    height: 100px;
+    position: relative;
+    float: right;
+    background: rgba(119, 115, 115, 0.58);
+
+}
+
+.sidebar, .content { position: absolute; }
+
+.sidebar {
+
+    background: #C6DD7D;
+    top: 10px;
+    left: 10px;
+    width: 70px;
+
+}
+
+.content {
+
+    background: #F4ECCE;
+    top: 35px;
+    left: 10px;
+    width: 70px;
+
+}
