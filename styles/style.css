@@ -1,0 +1,67 @@
+body {
+    background-image: url(../media/jpeg/minimalistichnyj-fony.jpg);
+}
+
+div{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.wrapper {
+    background-color: darkgray;
+    width: 86%;
+    margin: 0 auto;
+}
+
+.header {
+    display: block;
+    background: url(../media/jpeg/head.jpg) repeat-x center bottom  ;
+    height: 150px;
+}
+
+.navbar{
+    background-color: azure;
+    padding: 0px;
+    height: 50px;
+}
+
+.content{
+    max-width: 100%;
+    min-height: 300px;
+
+}
+
+.sidebar{
+    height: 50em;
+    width: 150px;
+    float: left;
+    margin-right: 10px;
+
+}
+
+.sidebarImg {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.navbut{
+    width: 200px;
+    border-radius: 10px;
+    height: 44px;
+    margin-top: 1px;
+    background-image: url(../media/jpeg/_1258-1346.jpg);
+}
+
+.logo{
+    margin-left: -50px;
+    margin-top: -40px;
+}
+
+.info{
+    padding: 50px;
+}
+
+td{
+    padding-left: 400px;
+    width: 3em;
+}
