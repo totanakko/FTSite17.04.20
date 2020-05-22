@@ -7,6 +7,21 @@ div {
     padding: 5px;
 }
 
+div.discord {
+    border: 0px;
+    padding:0px;
+}
+
+div.number {
+    border: 0px;
+    padding:0px;
+}
+
+div.telegram {
+    border: 0px;
+    padding: 0px;
+}
+
 .wrapper {
     background-color: darkgray;
     width: 86%;
