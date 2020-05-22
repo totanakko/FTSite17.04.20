@@ -22,6 +22,12 @@ div.telegram {
     padding: 0px;
 }
 
+.genres{
+    top: 82px;
+    left: 170px;
+    bottom: 0; right: 0;
+}
+
 .wrapper {
     background-color: darkgray;
     width: 65em;
