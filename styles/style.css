@@ -60,7 +60,7 @@ div.telegram {
 }
 
 .sidebar {
-    height: 50em;
+    height: 60em;
     width: 150px;
     float: left;
     margin-right: 10px;
@@ -110,11 +110,53 @@ div.telegram {
     border: 0;
 }
 
+.Gide {
+
+    width: 700px;
+    font-size: 16px;
+
+    text-align: center;
+}
+
+ol{
+    font-size: 17px;
+
+}
+
+.IMG_URL_DIABLO_CENTER{
+    text-align: center;
+
+
+}
+.IMG_DIABLO_SHUDOW{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin: 3px;
+    border: ridge;
+    width: 300px;
+}
+
+#GIDE_content{
+    text-align: center;
+    width: 700px;
+}
+
+.last{
+    background: black;
+}
+li{
+    margin-left: 10px;
+    float: center;
+}
+
+#races {
+    width: 180px;
+}
+
 #rogue-im-link {
 }
 
 table, tr, td {
-
     text-align: left;
     padding: 5px;
+
 }
