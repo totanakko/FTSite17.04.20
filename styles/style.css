@@ -156,6 +156,7 @@ li{
 }
 
 table, tr, td {
+
     text-align: left;
     padding: 5px;
     border: 1px solid black;
