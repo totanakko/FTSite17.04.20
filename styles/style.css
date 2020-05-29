@@ -36,10 +36,9 @@ div.telegram {
 
 .wrapper {
     background-color: darkgray;
-
     width: 86%;
-
     margin: 0 auto;
+    height: auto;
 }
 
 .header {
@@ -56,7 +55,7 @@ div.telegram {
 
 .content {
     max-width: 100%;
-    min-height: 300px;
+    max-height: available;
 
 }
 
@@ -90,10 +89,6 @@ div.telegram {
     padding: 50px;
 }
 
-td {
-    padding-left: 400px;
-    width: 3em;
-}
 
 .image_size {
     width: 10%;
@@ -102,7 +97,6 @@ td {
 
 .image_size_sp {
     width: 23%;
-
 }
 
 
@@ -111,6 +105,16 @@ td {
     height: 120px;
     color: aliceblue;
 }
-.mostRec{
+
+.mostRec {
     border: 0;
+}
+
+#rogue-im-link {
+}
+
+table, tr, td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 5px;
 }
