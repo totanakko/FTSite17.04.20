@@ -89,7 +89,6 @@ div.telegram {
     padding: 50px;
 }
 
-
 .image_size {
     width: 10%;
 }
@@ -110,11 +109,15 @@ div.telegram {
     border: 0;
 }
 
+#races {
+    width: 180px;
+}
+
 #rogue-im-link {
 }
 
 table, tr, td {
-    border: 1px solid black;
     text-align: left;
     padding: 5px;
+
 }
