@@ -7,22 +7,27 @@ div {
     padding: 5px;
 }
 
+div#genres-wrapper {
+    border: 0 solid black;
+}
+
 div.discord {
-    border: 0px;
-    padding: 0px;
+    border: 0;
+    padding: 0;
 }
 
 div.number {
-    border: 0px;
-    padding: 0px;
+    border: 0;
+    padding: 0;
 }
 
 div.telegram {
-    border: 0px;
-    padding: 0px;
+    border: 0;
+    padding: 0;
 }
 
 .genres {
+    border: 0;
     top: 82px;
     left: 170px;
     bottom: 0;
@@ -43,7 +48,7 @@ div.telegram {
 
 .navbar {
     background-color: azure;
-    padding: 0px;
+    padding: 0;
     height: 50px;
 }
 
