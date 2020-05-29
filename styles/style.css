@@ -31,7 +31,9 @@ div.telegram {
 
 .wrapper {
     background-color: darkgray;
-    width: 86em;
+
+    width: 86%;
+
     margin: 0 auto;
 }
 
