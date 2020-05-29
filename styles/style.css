@@ -144,7 +144,7 @@ ol{
 }
 li{
     margin-left: 10px;
-    float: center;
+    float: right;
 }
 
 #races {
@@ -157,6 +157,6 @@ li{
 table, tr, td {
     text-align: left;
     padding: 5px;
-
+    border: 1px solid black;
 }
 
