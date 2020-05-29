@@ -90,11 +90,6 @@ div.telegram {
     padding: 50px;
 }
 
-td {
-    padding-left: 400px;
-    width: 3em;
-}
-
 .image_size {
     width: 10%;
 }
@@ -113,4 +108,8 @@ td {
 }
 .mostRec{
     border: 0;
+}
+
+#races{
+    width: 180px;
 }
