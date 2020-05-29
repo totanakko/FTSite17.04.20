@@ -9,12 +9,12 @@ div {
 
 div.discord {
     border: 0px;
-    padding:0px;
+    padding: 0px;
 }
 
 div.number {
     border: 0px;
-    padding:0px;
+    padding: 0px;
 }
 
 div.telegram {
@@ -22,15 +22,18 @@ div.telegram {
     padding: 0px;
 }
 
-.genres{
+.genres {
     top: 82px;
     left: 170px;
-    bottom: 0; right: 0;
+    bottom: 0;
+    right: 0;
 }
 
 .wrapper {
     background-color: darkgray;
+
     width: 86%;
+
     margin: 0 auto;
 }
 
@@ -96,7 +99,6 @@ td {
     width: 23%;
 
 }
-
 
 
 .footer {
