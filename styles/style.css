@@ -89,6 +89,7 @@ div.telegram {
     padding: 50px;
 }
 
+
 .image_size {
     width: 10%;
 }
@@ -155,9 +156,8 @@ li{
 }
 
 table, tr, td {
-    border: 1px black;
+
     text-align: left;
     padding: 5px;
 
 }
-
