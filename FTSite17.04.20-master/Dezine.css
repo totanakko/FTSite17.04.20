@@ -1,0 +1,16 @@
+
+.invisible-el {
+    /* @include element-invisible(); */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute !important;
+    width: 1px;
+}
+.hidden, .menu-sub, #ajax-loading, #ajax-error, var.ajax-params, #modal-blocker, .q-post {
+    display: none;
+}
+
+  .sp-body {
+      display: block; /* for bots */
+  }
